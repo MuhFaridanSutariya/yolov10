@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 6
+names: ['Janjang kosong', 'Kurang masak', 'TBS abnormal', 'TBS masak', 'TBS mentah', 'Terlalu masak']
